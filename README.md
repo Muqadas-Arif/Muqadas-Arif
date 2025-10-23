@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muqadas-arif" alt="muqadas-arif" /></a> </p>
 
-- 🔭 I’m currently working on **datawrehouseproject**
+- 🔭 I’m currently working on **datawarehouseproject**
 
 - 🌱 I’m currently learning **Python,SQL,Excel,BI tools,git,and much more😁**
 
