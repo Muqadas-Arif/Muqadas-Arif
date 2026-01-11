@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muqadas Arif</h1>
-<h3 align="center">A Data Analyts/Engineer From Pakistan.</h3>
+<h3 align="center">A Data Analyst/Engineer From Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqadas-arif&label=Profile%20views&color=0e75b6&style=flat" alt="muqadas-arif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muqadas-arif" alt="muqadas-arif" /></a> </p>
 
-- 🔭 I’m currently working on **datawarehouseproject**
+- 🔭 I’m currently working on **LibraryManagmentDb**
 
-- 🌱 I’m currently learning **Python,SQL,Excel,BI tools,git,and much more😁**
+- 🌱 I’m currently learning **Python,SQL,Excel,BI tools,AI,git,and much more😁**
 
-- 💬 Ask me about **SQL,BItools,Python, and Data**
+- 💬 Ask me about **SQL,BItools,Python, AI DataAnalyst and Data**
 
-- 📫 How to reach me **muqadasarif95@mail.com**
+- 📫 How to reach me **muqadasarif95@gmail.com**
 
 - ⚡ Fun fact **I love to learn more and more😀**
 
