@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muqadas-arif" alt="muqadas-arif" /></a> </p>
 
-- 🔭 I’m currently working on **LibraryManagmentDb**
+- 🔭 I’m currently working on **BikeStoresAnalysis**
 
 - 🌱 I’m currently learning **Python,SQL,Excel,BI tools,AI,git,and much more😁**
 
 - 💬 Ask me about **SQL,BItools,Python, AI DataAnalyst and Data**
 
-- 📫 How to reach me **muqadasarif95@gmail.com**
+- 📫 How to reach me **muqadasarif023@gmail.com**
 
 - ⚡ Fun fact **I love to learn more and more😀**
 
